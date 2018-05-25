@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indle Game Demo", "Assembly-CSharp.csproj", "{D5B901F3-3DA9-8634-F8F6-FEEE9D16E590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indle Game Demo", "Assembly-CSharp-Editor.csproj", "{12183BD9-8215-0DB0-7944-B4DF7B276509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B901F3-3DA9-8634-F8F6-FEEE9D16E590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B901F3-3DA9-8634-F8F6-FEEE9D16E590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B901F3-3DA9-8634-F8F6-FEEE9D16E590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B901F3-3DA9-8634-F8F6-FEEE9D16E590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12183BD9-8215-0DB0-7944-B4DF7B276509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12183BD9-8215-0DB0-7944-B4DF7B276509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12183BD9-8215-0DB0-7944-B4DF7B276509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12183BD9-8215-0DB0-7944-B4DF7B276509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
