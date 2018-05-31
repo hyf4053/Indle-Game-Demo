@@ -15,12 +15,9 @@ public class DialogueCore : MonoBehaviour {
 	private Text textPrefab;
 	[SerializeField]
 	private Button buttonPrefab;
-	void Awake(){
-		
-	}
-
 	void StartStory(){
 		story = new Story(inkJSONAsset.text);
+		Debug.Log(story.variablesState);
 		RefreshView();
 	}
 

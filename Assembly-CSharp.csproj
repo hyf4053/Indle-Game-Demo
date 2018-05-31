@@ -944,6 +944,7 @@
      <Compile Include="Assets\ProCore\ProGrids\Classes\pg_Util.cs" />
      <Compile Include="Assets\ProCore\ProGrids\MonoBehaviour\pg_IgnoreSnap.cs" />
      <Compile Include="Assets\Scripts\Core\DialogueCore.cs" />
+     <Compile Include="Assets\Scripts\Core\IntroType.cs" />
      <Compile Include="Assets\Scripts\FPS Monitor\FPSDisplay.cs" />
      <Compile Include="Assets\Scripts\UI\ActiveConitnueButton.cs" />
      <Compile Include="Assets\Scripts\UI\OpenURL.cs" />
@@ -1029,6 +1030,7 @@
      <None Include="Assets\PostProcessing\Editor Resources\Monitors\HistogramCompute.compute" />
      <None Include="Assets\PostProcessing Profiles\V2\Prefabs\Mobile\Readme.txt" />
      <None Include="Assets\PostProcessing\Resources\Shaders\Uber.shader" />
+     <None Include="Assets\SceneAssets\Fonts\3500ChineseCharacter.txt" />
      <None Include="Assets\ProCore\ProGrids\About\pc_AboutEntry_ProGrids.txt" />
      <None Include="Assets\SceneAssets\UIPack\license.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
